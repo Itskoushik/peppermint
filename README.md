@@ -91,4 +91,4 @@ See `ANSWERS.md` Q3.
 
 ## AI delegation notes
 
-AI tooling (Claude) was used as a development assistant throughout — for scaffolding component structure, reviewing edge cases (e.g. catching an async-load race condition in `useFleetState` and a state-desync bug on mode switching), and drafting documentation. Architecture decisions, the final implementation, all testing, and validation were reviewed and directed by me at every stage.
+Claude was used selectively as a development support tool for issue analysis, edge-case checks, and documentation. The architecture, technical approach, key ideas, implementation decisions, testing, and final validation were my responsibility and were reviewed by me throughout the development process.
